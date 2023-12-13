@@ -1,8 +1,12 @@
-import React from 'react'
+import React from "react"
 
 const Footer = () => {
   return (
-    <div>Footer</div>
+    <>
+      <div className="footer">
+        <h3 style={{fontSize: "15px"}}>©LEARN Academy</h3>
+      </div>
+    </>
   )
 }
 
